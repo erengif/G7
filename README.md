@@ -4,4 +4,3 @@
 
 Maven project to test DevOps best practices
 
-hola
